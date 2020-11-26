@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+## React Form :open_file_folder:
+Hello everyone! :octocat:
+
+Here you can find the code of a practice to learn Reactjs, it is the frontend of a very simple and functional form. Hope you like it very much and have a happy coding.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -45,26 +50,14 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Screenshot
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![](https://scontent.cdninstagram.com/v/t51.2885-15/fr/e15/s1080x1080/127726901_711035346489341_2819989352780868290_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=qwjvKMdh1NoAX9aVtJ3&tp=1&oh=3737ba5a450a2d65641f263dfc123648&oe=5FE87344&ig_cache_key=MjQ1MTA1ODMzMjQwMDk5ODE3OA%3D%3D.2)
 
-### Analyzing the Bundle Size
+## Built With
+- [Visual Studio Code](https://www.sublimetext.com/)
+- [UiGradients](https://uigradients.com/)
+- [Material Design Box Shadows](https://codepen.io/sdthornton/pen/wBZdXq)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgments
+The amazing folks at [Briancodex](https://github.com/briancodex/)
